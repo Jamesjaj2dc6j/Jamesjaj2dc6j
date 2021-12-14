@@ -1,6 +1,6 @@
 # 👋 
 
-Hi, I'm Marc Duiker and I ❤ Serverless, DevCommunity, and Creative Coding! 😊
+Hi, I'm Bell Mark ❤ Serverless, DevCommunity, and Creative Coding! 😊
 
 ![](marc_duiker_pixel_selfie.gif)
 
